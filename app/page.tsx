@@ -1,4 +1,6 @@
 "use client";
+// Force redeploy 2
+
 
 import React, { useState } from "react";
 import { Shield, Activity, Database, TrendingUp, AlertCircle, Bot, Send, MapPin } from "lucide-react";
